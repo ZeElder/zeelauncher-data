@@ -1,0 +1,13 @@
+{
+  "patches": [
+    {
+      "version": "1.0.0",
+      "date": "05-03-2026",
+      "game": "MobFall",
+      "notes": [
+        "Beta initiale",
+        "Ajout système de combat"
+      ]
+    }
+  ]
+}
