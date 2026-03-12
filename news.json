@@ -1,14 +1,15 @@
 {
   "news": [
     {
-      "title": "Bienvenue sur ZeELauncher",
-      "content": "Le launcher est maintenant en ligne avec installation automatique des jeux.",
-      "date": "06-03-2026"
-    },
-    {
       "title": "MobFall disponible",
       "content": "La bêta de MobFall est disponible au téléchargement depuis la bibliothèque.",
       "date": "06-03-2026"
+    },
+    {
+      "title": "Le chat ami est disponible",
+      "content": "Vous pouvez désormais discuter avec vos amis.",
+      "date": "12-03-2026"
     }
+    
   ]
 }
