@@ -1,12 +1,22 @@
 {
   "patches": [
     {
-      "version": "1.0.0",
-      "date": "05-03-2026",
+      "version": "0.1.0",
+      "date": "01-01-2026",
       "game": "MobFall",
       "notes": [
         "Beta initiale",
         "Ajout système de combat"
+      ]
+    },
+    {
+      "version": "0.2.0",
+      "date": "01-03-2026",
+      "game": "MobFall",
+      "notes": [
+        "Finition des systèmes",
+        "Modification de l'HUD",
+        "Ajout du nécromancien"
       ]
     }
   ]
