@@ -23,6 +23,16 @@
       "size": "50.4Mo",
       "description": "Vampire survival game",
       "cover": "https://raw.githubusercontent.com/ZeElder/zeelauncher-data/main/covers/mobfall.jpg"
+    },
+    {
+      "id": "ashencrown",
+      "name": "AshenCrown",
+      "version": "0.0.1",
+      "downloadUrl": "https://github.com/ZeElder/zeelauncher-games/releases/download/MF_Beta_V0.5/AshenCrown",
+      "exe": "AshenCrown.exe",
+      "size": "0ko",
+      "description": "Projet En cours...",
+      "cover": "https://raw.githubusercontent.com/ZeElder/zeelauncher-data/main/covers/ashencrown.jpg"
     }
   ],
   "patchNotes": "https://raw.githubusercontent.com/ZeElder/zeelauncher-data/main/patchnotes.json"
