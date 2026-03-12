@@ -5,12 +5,22 @@
   },
   "games": [
     {
+      "id": "escapelab",
+      "name": "EscapeLab",
+      "version": "0.1.0",
+      "downloadUrl": "https://github.com/ZeElder/zeelauncher-games/releases/download/MF_Beta_V0.5/MobFall.zip",
+      "exe": "Escape Lab.exe",
+      "size": "38.1Mo",
+      "description": "Essaye de fuir d'un labyrinthe généré procéduralement.",
+      "cover": "https://raw.githubusercontent.com/ZeElder/zeelauncher-data/main/covers/mobfall.jpg"
+    },
+    {
       "id": "mobfall",
       "name": "MobFall",
-      "version": "1.0.0",
+      "version": "0.2.0",
       "downloadUrl": "https://github.com/ZeElder/zeelauncher-games/releases/download/MF_Beta_V0.5/MobFall.zip",
       "exe": "MobFall.exe",
-      "size": "50Mo",
+      "size": "50.4Mo",
       "description": "Vampire survival game",
       "cover": "https://raw.githubusercontent.com/ZeElder/zeelauncher-data/main/covers/mobfall.jpg"
     }
