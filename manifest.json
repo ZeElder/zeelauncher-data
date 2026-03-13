@@ -9,6 +9,7 @@
       "name": "EscapeLab",
       "version": "0.1.0",
       "downloadUrl": "https://github.com/ZeElder/zeelauncher-games/releases/download/EL_Beta_V0.1/EscapeLab.zip",
+      "sha256": "F294170915AC3B31279BB1A4CF6CE3520E37E3FBE766FB7F2521042A6D8B0DA6",
       "exe": "EscapeLab.exe",
       "size": "38.1Mo",
       "description": "Essaye de fuir d'un labyrinthe généré procéduralement.",
@@ -19,21 +20,12 @@
       "name": "MobFall",
       "version": "0.2.0",
       "downloadUrl": "https://github.com/ZeElder/zeelauncher-games/releases/download/MF_Beta_V0.5/MobFall.zip",
+      "sha256": "6EE10269205C2E2B5EE6A186633B8458A5D648BE803B92E68C0AAE30C69D5BEE",
       "exe": "MobFall.exe",
       "size": "50.4Mo",
       "description": "Vampire survival game",
       "cover": "https://raw.githubusercontent.com/ZeElder/zeelauncher-data/main/covers/mobfall.jpg"
     },
-    {
-      "id": "ashencrown",
-      "name": "AshenCrown",
-      "version": "0.0.1",
-      "downloadUrl": "https://github.com/ZeElder/zeelauncher-games/releases/download/MF_Beta_V0.5/AshenCrown",
-      "exe": "AshenCrown.exe",
-      "size": "0ko",
-      "description": "Projet En cours...",
-      "cover": "https://raw.githubusercontent.com/ZeElder/zeelauncher-data/main/covers/ashencrown.jpg"
-    }
   ],
   "patchNotes": "https://raw.githubusercontent.com/ZeElder/zeelauncher-data/main/patchnotes.json"
 }
