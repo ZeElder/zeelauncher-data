@@ -25,18 +25,18 @@
       "size": "50.4Mo",
       "description": "Survie à des vagues d'enemi et soit le plus puissant de tous. (En cours...)'",
       "cover": "https://raw.githubusercontent.com/ZeElder/zeelauncher-data/main/covers/mobfall.jpg"
-    },
-    {
-      "id": "ashencrown",
-      "name": "MobFall",
-      "version": "0.2.0",
-      "downloadUrl": "https://github.com/ZeElder/zeelauncher-games/releases/download/MF_Beta_V0.5/AshenCrown.zip",
-      "sha256": "A REMPLIR",
-      "exe": "AshenCrown.exe",
-      "size": "0ko",
-      "description": "Projet à venir...",
-      "cover": "https://raw.githubusercontent.com/ZeElder/zeelauncher-data/main/covers/ashencrown.jpg"
     }
+    /// {
+    ///  "id": "ashencrown",
+    ///  "name": "MobFall",
+    /// "version": "0.2.0",
+    ///  "downloadUrl": "https://github.com/ZeElder/zeelauncher-games/releases/download/MF_Beta_V0.5/AshenCrown.zip",
+    ///  "sha256": "A REMPLIR",
+    ///  "exe": "AshenCrown.exe",
+    ///  "size": "0ko",
+    ///  "description": "Projet à venir...",
+    ///  "cover": "https://raw.githubusercontent.com/ZeElder/zeelauncher-data/main/covers/ashencrown.jpg"
+    /// }
   ],
   "patchNotes": "https://raw.githubusercontent.com/ZeElder/zeelauncher-data/main/patchnotes.json"
 }
