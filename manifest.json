@@ -25,7 +25,7 @@
       "size": "50.4Mo",
       "description": "Vampire survival game",
       "cover": "https://raw.githubusercontent.com/ZeElder/zeelauncher-data/main/covers/mobfall.jpg"
-    },
+    }
   ],
   "patchNotes": "https://raw.githubusercontent.com/ZeElder/zeelauncher-data/main/patchnotes.json"
 }
